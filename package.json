@@ -13,5 +13,9 @@
     "chromedriver"
   ],
   "author": "Nick Guimond",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "better-queue": "^3.8.5",
+    "request": "^2.81.0"
+  }
 }
