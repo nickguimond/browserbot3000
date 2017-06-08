@@ -1,0 +1,17 @@
+{
+  "name": "browser-bot3000",
+  "version": "0.0.1",
+  "description": "Webdriver nodejs bindings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Webdriver",
+    "browser",
+    "automation",
+    "chromedriver"
+  ],
+  "author": "Nick Guimond",
+  "license": "MIT"
+}
