@@ -1,6 +1,6 @@
 {
   "name": "browserbot3000",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webdriver nodejs bindings.",
   "main": "index.js",
   "scripts": {
